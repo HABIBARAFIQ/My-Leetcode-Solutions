@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
