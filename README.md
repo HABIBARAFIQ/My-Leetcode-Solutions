@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
+| [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
