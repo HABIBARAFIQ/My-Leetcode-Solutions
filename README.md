@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
