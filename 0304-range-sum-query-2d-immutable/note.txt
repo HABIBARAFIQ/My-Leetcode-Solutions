@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=tk0Twx2VQy8
+At first I am having a 2d matrix which will calculate prefix sums in every row,
+then I am having each query result in O(1)time.
