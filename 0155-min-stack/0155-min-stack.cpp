@@ -7,18 +7,18 @@ public:
     }
     
     void push(int val) {
-        if(minst.empty()) minst.push(val);
-        else{
-        if(val<minst.top())
+        if (minst.empty() || val <= minst.top()) {
             minst.push(val);
-        else minst.push(minst.top());
-        }    
+        }   
         st.push(val);
     }
     
     void pop() {
+        if (st.top() == minst.top()) {
+            minst.pop();
+        }
         st.pop();
-        minst.pop();
+
     }
     
     int top() {
