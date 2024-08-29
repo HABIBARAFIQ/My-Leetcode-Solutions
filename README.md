@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Queue
 |  |
 | ------- |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
