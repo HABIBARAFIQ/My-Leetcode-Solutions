@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
+| [2227-sum-of-subarray-ranges](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Design
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
