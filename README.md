@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0937-online-stock-span](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## Prefix Sum
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1023-time-based-key-value-store](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 ## String
@@ -204,8 +206,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
