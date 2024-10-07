@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1023-time-based-key-value-store](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
+| [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
