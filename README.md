@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [2227-sum-of-subarray-ranges](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0966-binary-subarrays-with-sum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Matrix
 |  |
 | ------- |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
