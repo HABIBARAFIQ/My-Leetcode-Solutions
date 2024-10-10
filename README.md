@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
