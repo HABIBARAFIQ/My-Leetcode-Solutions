@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0441-arranging-coins) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1034-subarrays-with-k-different-integers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
