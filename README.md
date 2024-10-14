@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0907-koko-eating-bananas](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
