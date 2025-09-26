@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0943-sum-of-subarray-minimums](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [0966-binary-subarrays-with-sum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 | [1023-time-based-key-value-store](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0441-arranging-coins) |
+| [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
