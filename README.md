@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0307-range-sum-query-mutable) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0436-find-right-interval) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0300-longest-increasing-subsequence](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
