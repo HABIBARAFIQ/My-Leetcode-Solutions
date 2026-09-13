@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
