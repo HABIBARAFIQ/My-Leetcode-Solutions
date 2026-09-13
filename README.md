@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0138-copy-list-with-random-pointer](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0424-longest-repeating-character-replacement](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0460-lfu-cache) |
