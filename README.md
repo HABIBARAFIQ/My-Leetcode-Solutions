@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0155-min-stack) |
