@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
