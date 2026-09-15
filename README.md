@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0275-h-index-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0441-arranging-coins) |
 | [0912-random-pick-with-weight](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0912-random-pick-with-weight) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0611-valid-triangle-number](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
