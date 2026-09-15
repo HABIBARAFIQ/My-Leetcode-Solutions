@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0035-search-insert-position) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/HABIBARAFIQ/My-Leetcode-Solutions/tree/master/0086-partition-list) |
