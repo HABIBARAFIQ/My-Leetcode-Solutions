@@ -19,6 +19,7 @@ public:
 
 
         bool ans1=isSameTree(p->left,q->left);
+        if(ans1==false)return false;
         bool ans2=isSameTree(p->right,q->right);
         return ans1 && ans2;
     }
